@@ -1,0 +1,31 @@
+.inner{
+    display: flex;
+    height: 14rem;
+    width: auto;
+}
+
+.carousel{
+    cursor: grab;
+    width: 22rem;
+    overflow: hidden;
+}
+
+
+ .inner > div {
+    min-width: 20rem;
+    margin: auto;
+    border: 5px solid red;
+ }
+
+ .inner > div {
+    border: 1px solid;    
+ }
+
+
+ .inner > div img{
+    height: 10rem;
+    margin: auto;
+    pointer-events: none;
+
+ }
+
